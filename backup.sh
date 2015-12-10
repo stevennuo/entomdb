@@ -1,5 +1,5 @@
 db=onions
-colls=( avatars chapters hypervidoes problemsets provinces topics videos )
+colls=( avatars chapters hypervideos problemsets provinces topics videos )
 
 for c in ${colls[@]}
 do
