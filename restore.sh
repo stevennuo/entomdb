@@ -1,3 +1,4 @@
-tar -xvf dump.tar.bz2
+cd /restore
 mongorestore --drop
 rm -rf dump
+cd -
